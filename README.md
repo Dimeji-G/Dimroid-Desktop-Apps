@@ -16,7 +16,7 @@ This repository tracks releases for all Dimroid-built desktop apps. Each release
 
 | App | Version | Platform | License Required |
 |-----|---------|----------|-----------------|
-| [QR Code Generator]()1.2.0 | Windows · (Linux coming soon) | Yes |
+| [QR Code Generator]() | 1.2.0 | Windows · (Linux coming soon) | Yes |
 
 ---
 
