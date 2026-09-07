@@ -16,12 +16,13 @@ This repository tracks releases for all Dimroid-built desktop apps. Each release
 
 | App | What it does | Version | Platform | License |
 |-----|--------------|---------|----------|---------|
-| [QR Code Generator](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/QR_CODE) | QR codes with styling, logo embedding and ASCII output. | 1.2.0 | Windows | Yes |
-| [Vault — Password Manager](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/VAULT) | Encrypted, offline password manager — a master password unlocks an AES-encrypted local vault. | 1.0.0 | Windows | Yes |
-| [PriceWatch](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/PRICEWATCH) | Stock & crypto price-alert monitor that emails you the moment a threshold is crossed. | 1.0.0 | Windows | Yes |
-| [MailPilot](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/MAILPILOT) | AI-assisted email sender with a designable, reusable HTML template. | 1.0.0 | Windows | Yes |
-| [KeyGuard](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/KEYGUARD) | Desktop keystroke monitor & logger for personal, authorised monitoring. | 1.0.0 | Windows | Yes |
-| [Africa Quest](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/AFRICA_QUEST) | A timed 'name the 54 countries of Africa' game. | 1.0.0 | Windows | Yes |
+| [QR Code Generator](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/QR_CODE-v1.2.0) | QR codes with styling, logo embedding and ASCII output. | 1.2.0 | Windows | Yes |
+| [Vault — Password Manager](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/VAULT-v1.0.0) | Encrypted, offline password manager — a master password unlocks an AES-encrypted local vault. | 1.0.0 | Windows | Yes |
+| [PriceWatch](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/PRICEWATCH-v1.0.0) | Stock & crypto price-alert monitor that emails you the moment a threshold is crossed. | 1.0.0 | Windows | Yes |
+| [MailPilot](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/MAILPILOT-v1.0.0) | AI-assisted email sender with a designable, reusable HTML template. | 1.0.0 | Windows | Yes |
+| [KeyGuard](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/KEYGUARD-v1.0.0) | Desktop keystroke monitor & logger for personal, authorised monitoring. | 1.0.0 | Windows | Yes |
+| [Nigeria Map Game](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/NIGERIA_MAP_GAME-v1.0.0) | A timed 'name the 36 states + FCT' geography game, placed on a real map of Nigeria. | 1.0.0 | Windows | Yes |
+| [Africa Quest](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/AFRICA_QUEST-v1.0.0) | A timed 'name the 54 countries of Africa' game. | 1.0.0 | Windows | Yes |
 
 Every download link points to that app's latest release. More apps and Linux/macOS builds are on the way.
 
