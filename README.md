@@ -16,16 +16,16 @@ This repository tracks releases for all Dimroid-built desktop apps. Each release
 
 | App | What it does | Version | Platform | License |
 |-----|--------------|---------|----------|---------|
-| [QR Code Generator](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/QR_CODE-v2.0.1) | QR codes with styling, logo embedding and ASCII output. | 2.0.1 | Windows | Yes |
-| [Vault — Password Manager](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/VAULT-v1.0.0) | Encrypted, offline password manager — a master password unlocks an AES-encrypted local vault. | 1.0.0 | Windows | Yes |
-| [PriceWatch](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/PRICEWATCH-v1.0.0) | Stock & crypto price-alert monitor that emails you the moment a threshold is crossed. | 1.0.0 | Windows | Yes |
-| [ConvertKit](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/CONVERTKIT-v1.0.0) | Compresses and converts images, turns PDFs into Word files, and converts CSV and Excel sheets. Word to PDF needs LibreOffice. | 1.0.0 | Windows | Yes |
-| [MailPilot](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/MAILPILOT-v1.0.0) | AI-assisted email sender with a designable, reusable HTML template. | 1.0.0 | Windows | Yes |
-| [KeyGuard](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/KEYGUARD-v1.0.0) | Desktop keystroke monitor & logger for personal, authorised monitoring. | 1.0.0 | Windows | Yes |
-| [Nigeria Map Game](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/NIGERIA_MAP_GAME-v1.0.0) | A timed 'name the 36 states + FCT' geography game, placed on a real map of Nigeria. | 1.0.0 | Windows | Yes |
-| [Africa Quest](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/AFRICA_QUEST-v1.0.0) | A timed 'name the 54 countries of Africa' game. | 1.0.0 | Windows | Yes |
+| [QR Code Generator](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/QR_CODE-v2.0.1) | QR codes with styling, logo embedding and ASCII output. | 2.0.1 | Windows, macOS | Yes |
+| [Vault — Password Manager](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/VAULT-v1.0.0) | Encrypted, offline password manager — a master password unlocks an AES-encrypted local vault. | 1.0.0 | Windows, macOS | Yes |
+| [PriceWatch](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/PRICEWATCH-v1.0.0) | Stock & crypto price-alert monitor that emails you the moment a threshold is crossed. | 1.0.0 | Windows, macOS | Yes |
+| [ConvertKit](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/CONVERTKIT-v1.0.0) | Compresses and converts images, turns PDFs into Word files, and converts CSV and Excel sheets. Word to PDF needs LibreOffice. | 1.0.0 | Windows, macOS | Yes |
+| [MailPilot](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/MAILPILOT-v1.0.0) | AI-assisted email sender with a designable, reusable HTML template. | 1.0.0 | Windows, macOS | Yes |
+| [KeyGuard](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/KEYGUARD-v1.0.0) | Desktop keystroke monitor & logger for personal, authorised monitoring. | 1.0.0 | Windows, macOS | Yes |
+| [Nigeria Map Game](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/NIGERIA_MAP_GAME-v1.0.0) | A timed 'name the 36 states + FCT' geography game, placed on a real map of Nigeria. | 1.0.0 | Windows, macOS | Yes |
+| [Africa Quest](https://github.com/Dimeji-G/Dimroid-Desktop-Apps/releases/tag/AFRICA_QUEST-v1.0.0) | A timed 'name the 54 countries of Africa' game. | 1.0.0 | Windows, macOS | Yes |
 
-Every download link points to that app's latest release. More apps and Linux/macOS builds are on the way.
+Every download link points to that app's latest release. macOS builds run on Apple Silicon Macs with macOS 11 or later.
 
 ---
 
@@ -36,6 +36,14 @@ Every download link points to that app's latest release. More apps and Linux/mac
 1. Download the app's .exe from its Release page
 2. Run the .exe
 3. Enter your license key on first launch
+```
+
+**macOS (Apple Silicon)**
+```
+1. Download the app's _macOS_arm64.zip from its Release page and open it
+2. Drag the app to Applications
+3. First time only: Control-click the app and choose Open
+4. Enter your license key on first launch
 ```
 
 Don't have a license key yet? Get one at [shop.dimroid.com](https://shop.dimroid.com).
